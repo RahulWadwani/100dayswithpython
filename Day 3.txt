@@ -1,0 +1,7 @@
+types of modules 
+
+1. built-in modules : already present in the system 
+2. external modules : import from the projects done by your friend or someone who is working on some new technology.
+
+
+repl = read evaluate print loop 

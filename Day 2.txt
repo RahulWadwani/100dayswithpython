@@ -1,0 +1,5 @@
+jarvis 
+love calculator 
+snakes food 
+flappy bird 
+face recognition / face detection 
